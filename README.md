@@ -11,8 +11,8 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
 3. Mysql
 4. streamlit
 
-Selenium is one of the most widely used open source Web UI (User Interface) automation testing suite.It allows users to test their websites functionally on different browsers. Perform Cross browser testing to check if the website functions consistently across different browsers.
+Selenium is one of the most widely used open source Web UI (User Interface) automation testing suite.It allows users to test their websites functionally on different browsers. 
 Using Selenium and Python we automate the extraction of Redbus data including routes, schedules, prices, and seat availability.
 Stored the collected data in mysql database
-Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps. Once you’ve created an app, you can use our Community Cloud platform to deploy, manage, and share your app.
+Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps.
 Using streamlit we Implement various filters such as bustype, route, price range, star rating, availability.
